@@ -7,7 +7,6 @@
 - Jeu en solo contre un bot (IA simple)
 - Musique de fond aléatoire et enchaînée
 - Mécanique d'encerclement stratégique
-- Menu animé avec visuel façon "Conan des années 80"
 - Système de croissance et d’affaiblissement par force
 
 ## Lancer le jeu
