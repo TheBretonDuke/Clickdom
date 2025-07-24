@@ -1,0 +1,3 @@
+([('main',
+   '/Users/simonbrouard/Documents/DevIA/Clickdom/dist/main',
+   'EXECUTABLE')],)

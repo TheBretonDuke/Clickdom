@@ -1,9 +1,12 @@
-Board 1.png
+# Virtual environment
 .venvclick/
-<<<<<<< HEAD
-=======
-.venvclick/
-.venvclick/
->>>>>>> sauvegarde-avant-decoupe
-.venvclick/
-.venvclick/
+
+# Fichiers de logs
+*.log
+
+# Caches Python
+__pycache__/
+*.py[cod]
+
+# Fichiers d’environnement
+.env
