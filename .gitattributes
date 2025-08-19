@@ -1,0 +1,4 @@
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.py linguist-detectable=true
+*.html linguist-detectable=false

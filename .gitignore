@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+.venvcli/
+
+# Mac
+.DS_Store
+
+# Build & cache
+build/
+dist/
+*.spec
+.pytest_cache/
